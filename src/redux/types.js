@@ -1,0 +1,5 @@
+export const INCREMENT = 'INCREMENT';
+export const DECREMENT = 'DECREMENT';
+export const ADD_TO_CART = 'ADD_TO_CART';
+export const CHANGE_PRODUCT_PRICE = 'CHANGE_PRODUCT_PRICE';
+export const GET_TOTAL_PRICE = 'GET_TOTAL_PRICE';
